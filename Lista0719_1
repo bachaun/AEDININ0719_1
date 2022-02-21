@@ -2,4 +2,5 @@
 // cada quien irá introducioendo sus cambios a través de escribir su nombre en nueva linea de código
 //Introducir los nombres empezando por apellidos
 Debug.Log("Mejia Cortés Jonatan Ali");
-Debug.Log("Perez Ríos Andres");
+Debug.Log("Perez Ríos Andres"); 
+Debug.Log("Sebastian Guerrero Otero");
